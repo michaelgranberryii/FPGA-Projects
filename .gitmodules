@@ -10,3 +10,6 @@
 [submodule "fpga-simon-game"]
 	path = fpga-simon-game
 	url = git@github.com:michaelgranberryii/fpga-simon-game.git
+[submodule "fpga-guessing-game"]
+	path = fpga-guessing-game
+	url = git@github.com:michaelgranberryii/fpga-guessing-game.git
