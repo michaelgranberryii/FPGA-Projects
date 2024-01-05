@@ -7,3 +7,6 @@
 [submodule "fpga-uart"]
 	path = fpga-uart
 	url = git@github.com:michaelgranberryii/fpga-uart.git
+[submodule "fpga-simon-game"]
+	path = fpga-simon-game
+	url = git@github.com:michaelgranberryii/fpga-simon-game.git
