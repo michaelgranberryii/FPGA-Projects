@@ -1,0 +1,3 @@
+[submodule "fpga-vga"]
+	path = fpga-vga
+	url = git@github.com:michaelgranberryii/fpga-vga.git
