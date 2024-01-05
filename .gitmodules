@@ -1,3 +1,6 @@
 [submodule "fpga-vga"]
 	path = fpga-vga
 	url = git@github.com:michaelgranberryii/fpga-vga.git
+[submodule "fpga-ultrasonic-sensor"]
+	path = fpga-ultrasonic-sensor
+	url = git@github.com:michaelgranberryii/fpga-ultrasonic-sensor.git
