@@ -5,5 +5,7 @@ A collection of FPGA projects written in VHDL and System Verilog. The projects u
 * [Ultrasonic Sensor and SSD](https://github.com/michaelgranberryii/fpga-ultrasonic-sensor)
 * [Guessing Game](https://github.com/michaelgranberryii/fpga-guessing-game)
 * [Simon Game](https://github.com/michaelgranberryii/fpga-simon-game)
+* [Digital Lock FSM](https://github.com/michaelgranberryii/fpga-fsm-digital-lock)
+* [PWM](https://github.com/michaelgranberryii/fpga-pwm)
 * [UART](https://github.com/michaelgranberryii/fpga-uart)
 * [VGA](https://github.com/michaelgranberryii/fpga-vga)
