@@ -13,3 +13,9 @@
 [submodule "fpga-guessing-game"]
 	path = fpga-guessing-game
 	url = git@github.com:michaelgranberryii/fpga-guessing-game.git
+[submodule "fpga-pwm"]
+	path = fpga-pwm
+	url = git@github.com:michaelgranberryii/fpga-pwm.git
+[submodule "fpga-fsm-digital-lock"]
+	path = fpga-fsm-digital-lock
+	url = git@github.com:michaelgranberryii/fpga-fsm-digital-lock.git
